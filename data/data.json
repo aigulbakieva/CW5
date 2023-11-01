@@ -1,0 +1,39 @@
+  [{ 'company_name': 'Тинькофф',
+    'employer_id': '78638',
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=78638'},
+
+  { 'company_name': 'Яндекс',
+    'employer_id': '1740',
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1740'},
+
+  { 'company_name': 'Авито',
+    'employer_id': '84585',
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=84585'},
+
+  { 'company_name': 'СБЕР',
+    'employer_id': '3529',
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3529'},
+
+  { 'company_name': 'Ростелеком Информационные Технологии',
+    'employer_id': '3144945',
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3144945'},
+
+  { 'company_name': 'Yota',
+    'employer_id': '105904',
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=105904'},
+
+  { 'company_name': 'Procter & Gamble',
+    'employer_id': '4949',
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4949'},
+
+  { 'company_name': 'Контур',
+    'employer_id': '41862',
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=41862'},
+
+  { 'company_name': 'YCLIENTS LLC',
+    'employer_id': '793926',
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=793926'},
+
+  { 'company_name': 'МТС',
+    'employer_id': '3776',
+    'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3776'}]
